@@ -1,6 +1,6 @@
 <!-- Profile README — shown on https://github.com/spidey4 -->
 
-## Hi, I'm Dan 👋
+## Dan Calin - About Me 👋
 
 > Building real things **with** AI — and learning to build real **AI**.
 
@@ -31,7 +31,12 @@ work with AI**, while growing the engineering skills underneath it.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI / LLMs:** Google Gemini (Live) · LLM APIs & tool-calling · AI-assisted development
+**AI / LLMs:**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![MiniMax](https://img.shields.io/badge/MiniMax-FF4B4B?style=flat-square&logo=ai&logoColor=white)
+
+LLM APIs & tool-calling · AI-assisted development
 
 ---
 
