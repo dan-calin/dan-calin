@@ -47,6 +47,7 @@ LLM APIs & tool-calling · AI-assisted development
 | 🎙️ **[Miko — Voice AI Agent](https://github.com/dan-calin/miko-voice-assistant)** | A personal voice assistant for Windows powered by **Gemini Live** — controls the PC, Discord, web and files by voice. Ships a **FastAPI tool-server** so external agents can call its tools. | Python · Gemini Live · FastAPI |
 | 🪑 **[Event Floor Plan](https://github.com/dan-calin/event-floor-plan)** | A cross-platform mobile app for designing event seating — drag tables onto a pan/zoom canvas, backed by Supabase auth + Postgres. | React Native · Expo · TypeScript · Supabase |
 | 🧪 **[Beta Testing Manager](https://github.com/dan-calin/beta-testing-manager)** | A dark-themed Windows overlay app for beta testers — manage test lists, log OBS timestamps, and keep everything on top of any app. Clean MVC architecture. | Python · OBS WebSocket · Supabase |
+| 💬 **[VekiniChat](https://github.com/dan-calin/vekinichat)** | A private, Discord-style voice & text chat app for friends — servers, channels, crystal-clear voice, screen-share & roles. Native desktop. | Tauri · Vite · Supabase · LiveKit |
 ---
 
 ### 🤖 How I work with AI
