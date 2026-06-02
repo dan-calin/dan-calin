@@ -13,7 +13,7 @@ work with AI**, while growing the engineering skills underneath it.
 - 🧪 **Approach:** ship small, real projects → learn what breaks → go deeper
 - 💬 **Open to:** opportunities, collaboration, and a good technical conversation
 
-<!-- TODO: LinkedIn badge goes here once the URL is provided -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dan_Calin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dancalin09/)
 [![Email](https://img.shields.io/badge/Email-dancalin09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dancalin09@gmail.com)
 
 ---
