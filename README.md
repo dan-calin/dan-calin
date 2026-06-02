@@ -83,9 +83,8 @@ Every project here taught me something the last one didn't — and that's the po
 
 ### 📊 GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dan-calin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Dan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-calin&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=dan-calin&style=flat-square&color=0A66C2&label=Profile+views)](https://github.com/dan-calin)
+[![Followers](https://img.shields.io/github/followers/dan-calin?style=flat-square&logo=github&logoColor=white&label=Followers&color=181717)](https://github.com/dan-calin?tab=followers)
+[![Stars](https://img.shields.io/github/stars/dan-calin?affiliations=OWNER&style=flat-square&logo=github&logoColor=white&label=Stars&color=DAA520)](https://github.com/dan-calin?tab=repositories)
 
 <sub>⚡ This profile is actively evolving as I build and learn.</sub>
