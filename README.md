@@ -1,4 +1,4 @@
-<!-- Profile README — shown on https://github.com/spidey4 -->
+<!-- Profile README — shown on https://github.com/dan-calin -->
 
 ## Dan Calin - About Me 👋
 
@@ -44,9 +44,9 @@ LLM APIs & tool-calling · AI-assisted development
 
 | Project | What it is | Built with |
 |---------|-----------|------------|
-| 🎙️ **[Miko — Voice AI Agent](https://github.com/spidey4/miko-voice-assistant)** | A personal voice assistant for Windows powered by **Gemini Live** — controls the PC, Discord, web and files by voice. Ships a **FastAPI tool-server** so external agents can call its tools. | Python · Gemini Live · FastAPI |
-| 🪑 **[Event Floor Plan](https://github.com/spidey4/event-floor-plan)** | A cross-platform mobile app for designing event seating — drag tables onto a pan/zoom canvas, backed by Supabase auth + Postgres. | React Native · Expo · TypeScript · Supabase |
-| 📷 **[Camera Freeze](https://github.com/spidey4/Camera-Freeze)** | A virtual-camera utility that "freezes" your webcam on command for meetings — works through the OBS virtual camera with a simple web dashboard. | Python |
+| 🎙️ **[Miko — Voice AI Agent](https://github.com/dan-calin/miko-voice-assistant)** | A personal voice assistant for Windows powered by **Gemini Live** — controls the PC, Discord, web and files by voice. Ships a **FastAPI tool-server** so external agents can call its tools. | Python · Gemini Live · FastAPI |
+| 🪑 **[Event Floor Plan](https://github.com/dan-calin/event-floor-plan)** | A cross-platform mobile app for designing event seating — drag tables onto a pan/zoom canvas, backed by Supabase auth + Postgres. | React Native · Expo · TypeScript · Supabase |
+| 📷 **[Camera Freeze](https://github.com/dan-calin/Camera-Freeze)** | A virtual-camera utility that "freezes" your webcam on command for meetings — works through the OBS virtual camera with a simple web dashboard. | Python |
 
 ---
 
@@ -67,8 +67,8 @@ Every project here taught me something the last one didn't — and that's the po
 ### 📊 GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=spidey4&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Dan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidey4&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dan-calin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Dan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-calin&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <sub>⚡ This profile is actively evolving as I build and learn.</sub>
