@@ -44,15 +44,15 @@ LLM APIs & tool-calling · AI-assisted development
 
 <p>
   <a href="https://www.credly.com/badges/805a0330-88e5-44ed-b9e6-c992748f878d/public_url" title="Google IT Support Professional Certificate — Coursera/Google. Click to verify.">
-    <img width="115" src="https://images.credly.com/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/linkedin_thumb_GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Professional Certificate" />
+    <img height="94" src="assets/badges/google.png" alt="Google IT Support Professional Certificate" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/20642e17-7269-4fc1-9e41-4e9131a22987/public_url" title="Linux Unhatched — Cisco. Click to verify.">
-    <img width="115" src="https://images.credly.com/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/linkedin_thumb_image.png" alt="Cisco Linux Unhatched" />
+    <img height="94" src="assets/badges/linux.png" alt="Cisco Linux Unhatched" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/26d19e97-e528-4b5d-be59-a6e034590aa1/public_url" title="IT Customer Support Basics — Cisco. Click to verify.">
-    <img width="78" src="https://images.credly.com/size/110x110/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" alt="Cisco IT Customer Support Basics" />
+    <img height="94" src="assets/badges/itcsb.png" alt="Cisco IT Customer Support Basics" />
   </a>
 </p>
 
