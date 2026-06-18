@@ -52,7 +52,7 @@ LLM APIs & tool-calling · AI-assisted development
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/26d19e97-e528-4b5d-be59-a6e034590aa1/public_url" title="IT Customer Support Basics — Cisco. Click to verify.">
-    <img width="115" src="https://images.credly.com/size/110x110/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" alt="Cisco IT Customer Support Basics" />
+    <img width="78" src="https://images.credly.com/size/110x110/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" alt="Cisco IT Customer Support Basics" />
   </a>
 </p>
 
