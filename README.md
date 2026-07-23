@@ -90,45 +90,45 @@ LLM APIs · Tool calling · MCP · AI agents · AI-assisted development
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://www.credly.com/badges/306b8874-8b7f-4f3e-8dbe-c370bda936d0/public_url">
         <img height="100" src="https://images.credly.com/images/d358c04b-d081-424f-8221-d5d63f76c144/linkedin_thumb_blob" alt="CompTIA Tech+ Certification" />
       </a>
       <br />
-      <strong>CompTIA Tech+ Certification</strong>
+      <strong>CompTIA Tech+<br />Certification</strong>
       <br />
       <sub>CompTIA</sub>
       <br />
       <a href="https://www.credly.com/badges/306b8874-8b7f-4f3e-8dbe-c370bda936d0/public_url">View credential ↗</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://www.credly.com/badges/805a0330-88e5-44ed-b9e6-c992748f878d/public_url">
         <img height="100" src="assets/badges/google.png" alt="Google IT Support Professional Certificate" />
       </a>
       <br />
-      <strong>Google IT Support</strong>
+      <strong>Google IT Support<br />&nbsp;</strong>
       <br />
       <sub>Coursera · Google</sub>
       <br />
       <a href="https://www.credly.com/badges/805a0330-88e5-44ed-b9e6-c992748f878d/public_url">View credential ↗</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://www.credly.com/badges/20642e17-7269-4fc1-9e41-4e9131a22987/public_url">
         <img height="100" src="assets/badges/linux.png" alt="Cisco Linux Unhatched" />
       </a>
       <br />
-      <strong>Linux Unhatched</strong>
+      <strong>Linux Unhatched<br />&nbsp;</strong>
       <br />
       <sub>Cisco Networking Academy</sub>
       <br />
       <a href="https://www.credly.com/badges/20642e17-7269-4fc1-9e41-4e9131a22987/public_url">View credential ↗</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://www.credly.com/badges/26d19e97-e528-4b5d-be59-a6e034590aa1/public_url">
         <img height="100" src="assets/badges/itcsb.png" alt="Cisco IT Customer Support Basics" />
       </a>
       <br />
-      <strong>IT Customer Support Basics</strong>
+      <strong>IT Customer Support<br />Basics</strong>
       <br />
       <sub>Cisco Networking Academy</sub>
       <br />
