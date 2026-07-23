@@ -89,6 +89,10 @@ LLM APIs · Tool calling · MCP · AI agents · AI-assisted development
 ## Certifications
 
 <p>
+  <a href="https://www.credly.com/badges/306b8874-8b7f-4f3e-8dbe-c370bda936d0/public_url" title="CompTIA Tech+ Certification — CompTIA. Click to verify.">
+    <img height="94" src="https://images.credly.com/images/d358c04b-d081-424f-8221-d5d63f76c144/linkedin_thumb_blob" alt="CompTIA Tech+ Certification" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/805a0330-88e5-44ed-b9e6-c992748f878d/public_url" title="Google IT Support Professional Certificate — Coursera/Google. Click to verify.">
     <img height="94" src="assets/badges/google.png" alt="Google IT Support Professional Certificate" />
   </a>
@@ -102,6 +106,7 @@ LLM APIs · Tool calling · MCP · AI agents · AI-assisted development
   </a>
 </p>
 
+- **CompTIA Tech+ Certification** — CompTIA · [verify](https://www.credly.com/badges/306b8874-8b7f-4f3e-8dbe-c370bda936d0/public_url)
 - **Google IT Support** — Coursera/Google · [verify](https://www.credly.com/badges/805a0330-88e5-44ed-b9e6-c992748f878d/public_url)
 - **Cisco Linux Unhatched** — Cisco · [verify](https://www.credly.com/badges/20642e17-7269-4fc1-9e41-4e9131a22987/public_url)
 - **IT Customer Support Basics** — Cisco · [verify](https://www.credly.com/badges/26d19e97-e528-4b5d-be59-a6e034590aa1/public_url)
