@@ -95,6 +95,7 @@ LLM APIs · Tool calling · MCP · AI agents · AI-assisted development
         <img height="100" src="https://images.credly.com/images/d358c04b-d081-424f-8221-d5d63f76c144/linkedin_thumb_blob" alt="CompTIA Tech+ Certification" />
       </a>
       <br />
+      &nbsp;<br />
       <strong>CompTIA Tech+<br />Certification</strong>
       <br />
       <sub>CompTIA</sub>
