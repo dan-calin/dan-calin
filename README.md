@@ -108,6 +108,12 @@ LLM APIs · Tool calling · MCP · AI agents · AI-assisted development
 
 ---
 
+## GitHub Snapshot
+
+[![Dan Calin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dan-calin&theme=github_dark)](https://github.com/dan-calin)
+
+---
+
 ## Let's Connect
 
 I'm actively building, learning, and looking for opportunities where practical
@@ -119,7 +125,5 @@ hear from you on [LinkedIn](https://www.linkedin.com/in/dancalin09/) or by
 [email](mailto:dancalin09@gmail.com).
 
 [![Profile views](https://komarev.com/ghpvc/?username=dan-calin&style=flat-square&color=0A66C2&label=Profile+views)](https://github.com/dan-calin)
-[![Followers](https://img.shields.io/github/followers/dan-calin?style=flat-square&logo=github&logoColor=white&label=Followers&color=181717)](https://github.com/dan-calin?tab=followers)
-[![Stars](https://img.shields.io/github/stars/dan-calin?affiliations=OWNER&style=flat-square&logo=github&logoColor=white&label=Stars&color=DAA520)](https://github.com/dan-calin?tab=repositories)
 
 <sub>⚡ This profile evolves with every project I build and every assumption I learn to test.</sub>
