@@ -112,8 +112,6 @@ LLM APIs · Tool calling · MCP · AI agents · AI-assisted development
       <br />
       <a href="https://www.credly.com/badges/805a0330-88e5-44ed-b9e6-c992748f878d/public_url">View credential ↗</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <a href="https://www.credly.com/badges/20642e17-7269-4fc1-9e41-4e9131a22987/public_url">
         <img height="100" src="assets/badges/linux.png" alt="Cisco Linux Unhatched" />
